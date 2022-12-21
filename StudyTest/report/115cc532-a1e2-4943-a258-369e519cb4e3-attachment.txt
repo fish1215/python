@@ -1,0 +1,2 @@
+[32mINFO    [0m log:conftest.py:31 开始执行用例~
+[32mINFO    [0m log:conftest.py:33 用例执行结束！

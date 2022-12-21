@@ -1,0 +1,35 @@
+[2022-12-21 00:39:12,124][rest_client.py 51][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-12-21 00:39:12,124][rest_client.py 52][INFO]: 接口请求方法>>>POST
+[2022-12-21 00:39:12,125][rest_client.py 56][INFO]: 接口请求的json参数>>>
+{
+  "mobile:1500000000": null
+}
+[2022-12-21 00:39:12,239][response_util.py 21][INFO]: 接口状态码不是2开头的，请检查
+[2022-12-21 00:40:01,654][rest_client.py 51][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-12-21 00:40:01,654][rest_client.py 52][INFO]: 接口请求方法>>>POST
+[2022-12-21 00:40:01,654][rest_client.py 56][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 1500000000
+}
+[2022-12-21 00:40:01,769][response_util.py 21][INFO]: 接口状态码不是2开头的，请检查
+[2022-12-21 00:41:02,210][rest_client.py 51][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-12-21 00:41:02,211][rest_client.py 52][INFO]: 接口请求方法>>>POST
+[2022-12-21 00:41:02,211][rest_client.py 56][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 1500000000
+}
+[2022-12-21 00:41:02,396][response_util.py 21][INFO]: 接口状态码不是2开头的，请检查
+[2022-12-21 23:03:10,854][rest_client.py 51][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-12-21 23:03:10,855][rest_client.py 52][INFO]: 接口请求方法>>>POST
+[2022-12-21 23:03:10,856][rest_client.py 56][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 1500000000
+}
+[2022-12-21 23:03:11,081][response_util.py 21][INFO]: 接口状态码不是2开头的，请检查
+[2022-12-21 23:10:40,266][rest_client.py 51][INFO]: 接口请求的地址>>>http://admin.5istudy.online/code/
+[2022-12-21 23:10:40,267][rest_client.py 52][INFO]: 接口请求方法>>>POST
+[2022-12-21 23:10:40,267][rest_client.py 56][INFO]: 接口请求的json参数>>>
+{
+  "mobile": 15000000000
+}
+[2022-12-21 23:10:41,514][response_util.py 21][INFO]: 接口状态码不是2开头的，请检查

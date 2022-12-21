@@ -1,0 +1,210 @@
+[2022-12-20 00:02:34,779][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:02:34,793][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:00,500][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:00,512][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:00,513][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:00,513][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:00,652][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:00,655][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:00,666][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:00,678][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:00,678][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:00,678][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:00,829][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:00,876][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:00,882][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:00,894][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:00,895][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:00,895][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:01,072][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:01,073][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:15,653][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:15,661][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:15,662][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:15,662][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:15,803][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:15,805][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:15,811][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:15,825][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:15,826][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:15,826][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:15,933][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:15,973][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:15,976][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:15,993][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:15,993][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:15,993][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:16,117][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:16,118][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:57,994][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:58,001][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:58,001][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:58,002][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:58,113][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:58,114][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:58,119][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:58,127][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:58,128][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:58,128][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:58,244][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:58,292][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:03:58,294][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:03:58,310][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:03:58,310][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:03:58,310][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:03:58,429][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:03:58,445][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:20:50,299][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:20:50,353][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:21:26,921][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:21:26,979][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:22:19,187][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:22:19,240][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:23:52,350][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:23:52,423][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:24:30,872][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:24:30,895][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:24:30,896][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:24:30,896][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:24:31,100][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:24:31,104][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:27:13,149][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:27:13,180][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:27:13,180][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:27:13,180][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:27:13,380][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:27:13,385][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:29:59,945][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:29:59,969][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:29:59,970][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:29:59,970][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:30:00,161][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:30:00,165][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:32:35,989][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:32:36,016][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:32:36,016][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:32:36,017][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:32:36,326][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:32:36,329][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 00:33:36,317][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 00:33:36,341][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 00:33:36,341][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 00:33:36,341][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 00:33:36,495][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 00:33:36,498][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 23:27:11,210][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 23:27:11,236][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 23:27:11,237][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 23:27:11,237][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 23:27:11,722][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 23:27:11,727][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 23:30:31,816][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 23:30:31,829][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 23:30:31,829][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 23:30:31,829][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 23:30:31,958][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 23:30:32,021][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 23:30:55,780][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 23:30:55,804][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 23:30:55,804][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 23:30:55,804][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 23:30:55,925][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 23:30:55,928][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 23:32:12,274][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 23:32:12,285][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 23:32:12,285][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 23:32:12,286][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 23:32:12,412][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 23:32:12,413][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 23:32:12,418][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 23:32:12,445][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 23:32:12,445][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 23:32:12,445][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 23:32:12,560][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 23:32:12,562][conftest.py 33][INFO]: 用例执行结束！
+[2022-12-20 23:32:12,567][conftest.py 31][INFO]: 开始执行用例~
+[2022-12-20 23:32:12,590][rest_client.py 51][INFO]: 接口请求的地址>>>https://api.binstd.com/shouji/query
+[2022-12-20 23:32:12,591][rest_client.py 52][INFO]: 接口请求方法>>>GET
+[2022-12-20 23:32:12,591][rest_client.py 58][INFO]: 接口请求的params参数
+{
+  "shouji": 13456755448,
+  "appkey": "0c818521d38759e1"
+}
+[2022-12-20 23:32:12,699][response_util.py 18][INFO]: 接口返回内容>>>: {"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "浙江", "city": "杭州", "company": "中国移动", "cardtype": null, "areacode": "0571"}}
+[2022-12-20 23:32:12,749][conftest.py 33][INFO]: 用例执行结束！
