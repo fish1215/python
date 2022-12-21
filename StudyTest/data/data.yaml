@@ -56,4 +56,4 @@ mobile_belong_get:
 json_data: {title: foo,body: bar,userId: 1}
 
 
-test_register: { mobile: 15000000000 }
+test_register: { mobile: 15000001236 }
